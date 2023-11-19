@@ -4,12 +4,12 @@ Submission dicoding flutter
 
 ## Screen Shoot
 ### Tab / Web
-[Main Screen](assets/ss_main_tab.png)
-[Detail Portofolio Screen](assets/ss_detail_porto_tab.png)
+![Main Screen](assets/ss_main_tab.png)
+![Detail Portofolio Screen](assets/ss_detail_porto_tab.png)
 
 ### Mobile
-[Main Screen](assets/ss_main_mobile.png)
-[Detail Portofolio Screen](assets/ss_detail_porto_mobile.png)
+![Main Screen](assets/ss_main_mobile.png)
+![Detail Portofolio Screen](assets/ss_detail_porto_mobile.png)
 
 ## Getting Started
 
