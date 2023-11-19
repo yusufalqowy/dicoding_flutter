@@ -1,6 +1,6 @@
 # dicoding_flutter
 
-Submission dicoding flutter
+Aplikasi profile untuk submission dicoding flutter
 
 ## Screen Shoot
 ### Tab / Web
